@@ -50,7 +50,7 @@ cd Finder
 bash Finder.sh
 ```
 ## Change log:
-Version: 0.2: Remove Ngrok and update cloudflared tunnel
+Version: 1.0: Remove Ngrok and update cloudflared tunnel
 
 
 ### For  More Tools  <a href="http://t.me/estkan3a">LAPSCA$ Telegram Channel</a>
